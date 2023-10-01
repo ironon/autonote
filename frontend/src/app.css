@@ -1,0 +1,43 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+
+#app{
+  background: linear-gradient(to bottom right, #0077C2, #005EBD, #0042B7, #002DAF, #001FAB);
+  width: 100%;
+  height: 100%;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  /* Replace 'Open Sans' with the desired font name */
+  font-size: 16px;
+  /* Set the desired font size */
+  font-weight: 400;
+  /* Set the desired font weight */
+  line-height: 1.5;
+  /* Set the desired line height */
+  color: #608a91;
+  /* Set the desired text color */
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+  /* Replace 'Montserrat' with the desired font name for headings */
+  font-weight: 700;
+  /* Set the desired font weight for headings */
+}
+
+
+
+
+button, input[type="submit"] {
+  font-family: 'Open Sans', sans-serif;
+  /* Set the desired font for buttons */
+  font-weight: 600;
+  /* Set the desired font weight for buttons */
+}
+

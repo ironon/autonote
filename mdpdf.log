@@ -1,0 +1,194 @@
+    INFO: 2023-09-25 19:40:32,230:               log.py:   20: Logging to C:\Users\HP\Programming\notesscrapper\mdpdf.log
+   DEBUG: 2023-09-25 19:40:32,231:               cli.py:  103: ./server/notes/notes_26722.md
+    INFO: 2023-09-25 19:40:32,231:         converter.py:   14: ./server/notes/notes_26722.md
+   DEBUG: 2023-09-25 19:40:32,250:      pdf_renderer.py:  470: printSegment: Session 2: Exploration and Colonization - THE BRITISH
+   DEBUG: 2023-09-25 19:40:32,255:      pdf_renderer.py:  470: printSegment: SOUTHERN COLONIES
+   DEBUG: 2023-09-25 19:40:32,256:      pdf_renderer.py:  470: printSegment: The Southern Colonies
+   DEBUG: 2023-09-25 19:40:32,256:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,257:      pdf_renderer.py:  470: printSegment: Made up of Virginia, North Carolina, South Carolina, and Georgia (and sometimes Maryland)
+   DEBUG: 2023-09-25 19:40:32,258:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,258:      pdf_renderer.py:  470: printSegment: The first established British colonies in North America
+   DEBUG: 2023-09-25 19:40:32,258:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,259:      pdf_renderer.py:  470: printSegment: Founded for purely economic reasons
+   DEBUG: 2023-09-25 19:40:32,259:      pdf_renderer.py:  470: printSegment: The Southern Colonists
+   DEBUG: 2023-09-25 19:40:32,259:      pdf_renderer.py:  470: printSegment: The English Cavalier
+   DEBUG: 2023-09-25 19:40:32,259:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,259:      pdf_renderer.py:  470: printSegment: Economic Status: Wealthy landowning nobility
+   DEBUG: 2023-09-25 19:40:32,260:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,260:      pdf_renderer.py:  470: printSegment: Ethnic Background: English
+   DEBUG: 2023-09-25 19:40:32,260:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,260:      pdf_renderer.py:  470: printSegment: Where they Settled: Coastal lowlands in the east with the best land for large plantation farming
+   DEBUG: 2023-09-25 19:40:32,260:      pdf_renderer.py:  470: printSegment: The Frontier Settler
+   DEBUG: 2023-09-25 19:40:32,260:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,261:      pdf_renderer.py:  470: printSegment: Economic Status: Poor former indentured servants
+   DEBUG: 2023-09-25 19:40:32,261:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,261:      pdf_renderer.py:  470: printSegment: Ethnic Background: Scotch-Irish, and poor English
+   DEBUG: 2023-09-25 19:40:32,261:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,261:      pdf_renderer.py:  470: printSegment: Where they settled: Small subsistence farms in the west near the Appalachians
+   DEBUG: 2023-09-25 19:40:32,261:      pdf_renderer.py:  470: printSegment: The Jamestown Colony: 1607
+   DEBUG: 2023-09-25 19:40:32,262:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,262:      pdf_renderer.py:  470: printSegment: First successful English colony in North America
+   DEBUG: 2023-09-25 19:40:32,262:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,262:      pdf_renderer.py:  470: printSegment: Originally founded by the Virginia Company, a British joint-stock corporation
+   DEBUG: 2023-09-25 19:40:32,263:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,263:      pdf_renderer.py:  470: printSegment: Colonists were led by John Smith, a former soldier and adventurer
+   DEBUG: 2023-09-25 19:40:32,263:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,263:      pdf_renderer.py:  470: printSegment: Established as an economic venture, eventually became a royal colony controlled directly by the
+   DEBUG: 2023-09-25 19:40:32,263:      pdf_renderer.py:  470: printSegment: British Crown
+   DEBUG: 2023-09-25 19:40:32,263:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,264:      pdf_renderer.py:  470: printSegment: Jamestown almost failed due to disease and starvation, but ultimately succeeded due to John Smith
+   DEBUG: 2023-09-25 19:40:32,264:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2023-09-25 19:40:32,264:      pdf_renderer.py:  470: printSegment: s
+   DEBUG: 2023-09-25 19:40:32,264:      pdf_renderer.py:  470: printSegment: leadership and tobacco
+   DEBUG: 2023-09-25 19:40:32,264:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2023-09-25 19:40:32,264:      pdf_renderer.py:  470: printSegment: s profitability
+   DEBUG: 2023-09-25 19:40:32,265:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,265:      pdf_renderer.py:  470: printSegment: Joint-stock companies funded and maintained the first English colonies through private investment
+   DEBUG: 2023-09-25 19:40:32,265:      pdf_renderer.py:  470: printSegment: and with charters from the English government
+   DEBUG: 2023-09-25 19:40:32,265:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,265:      pdf_renderer.py:  470: printSegment: Virginia Company founded Jamestown in 1607
+   DEBUG: 2023-09-25 19:40:32,265:      pdf_renderer.py:  470: printSegment: Successes
+   DEBUG: 2023-09-25 19:40:32,266:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,266:      pdf_renderer.py:  470: printSegment: New settlers arrived at the perfect time
+   DEBUG: 2023-09-25 19:40:32,266:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,266:      pdf_renderer.py:  470: printSegment: Introduction of tobacco by John Rolfe in 1612
+   DEBUG: 2023-09-25 19:40:32,266:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,266:      pdf_renderer.py:  470: printSegment: Headright System solved labor issues, leading to significant immigration expansion
+   DEBUG: 2023-09-25 19:40:32,267:      pdf_renderer.py:  470: printSegment: Problems
+   DEBUG: 2023-09-25 19:40:32,267:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,267:      pdf_renderer.py:  470: printSegment: Everyone looking for gold and profit
+   DEBUG: 2023-09-25 19:40:32,267:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,268:      pdf_renderer.py:  470: printSegment: Disease from bad water
+   DEBUG: 2023-09-25 19:40:32,268:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,268:      pdf_renderer.py:  470: printSegment: Starvation due to lack of crop planting
+   DEBUG: 2023-09-25 19:40:32,270:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,271:      pdf_renderer.py:  470: printSegment: Tense relations with the Powhatan Indians
+   DEBUG: 2023-09-25 19:40:32,272:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,272:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2023-09-25 19:40:32,272:      pdf_renderer.py:  470: printSegment: Starving Time
+   DEBUG: 2023-09-25 19:40:32,273:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2023-09-25 19:40:32,273:      pdf_renderer.py:  470: printSegment:  during the winter of 1609-1610
+   DEBUG: 2023-09-25 19:40:32,273:      pdf_renderer.py:  470: printSegment: Early Forms of Government
+   DEBUG: 2023-09-25 19:40:32,274:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,274:      pdf_renderer.py:  470: printSegment: The Royal Colonies of the South (VA, NC, SC, GA) were governed by wealthy, land-owning
+   DEBUG: 2023-09-25 19:40:32,275:      pdf_renderer.py:  470: printSegment: aristocrats under the supervision of the King of England and Parliament
+   DEBUG: 2023-09-25 19:40:32,275:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,275:      pdf_renderer.py:  470: printSegment: The Virginia House of Burgesses, established in 1619, was the first elected colonial legislature in
+   DEBUG: 2023-09-25 19:40:32,275:      pdf_renderer.py:  470: printSegment: the Americas and still exists today as the Virginia Assembly
+   DEBUG: 2023-09-25 19:40:32,276:      pdf_renderer.py:  470: printSegment: European Treatment of Natives
+   DEBUG: 2023-09-25 19:40:32,276:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,276:      pdf_renderer.py:  470: printSegment: The Spanish: Raised natives up into social and political life, taught them agriculture and many other
+   DEBUG: 2023-09-25 19:40:32,276:      pdf_renderer.py:  470: printSegment: arts
+   DEBUG: 2023-09-25 19:40:32,276:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,277:      pdf_renderer.py:  470: printSegment: The French: Exceeded in industry, economy, and the arts of conciliating the affections of mankind,
+   DEBUG: 2023-09-25 19:40:32,277:      pdf_renderer.py:  470: printSegment: managed Indians well
+   DEBUG: 2023-09-25 19:40:32,277:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,277:      pdf_renderer.py:  470: printSegment: The English: Intended to change the natives
+   DEBUG: 2023-09-25 19:40:32,277:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2023-09-25 19:40:32,277:      pdf_renderer.py:  470: printSegment:  ways, teach them about the true god and salvation, and
+   DEBUG: 2023-09-25 19:40:32,277:      pdf_renderer.py:  470: printSegment: bring them under the king
+   DEBUG: 2023-09-25 19:40:32,278:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2023-09-25 19:40:32,278:      pdf_renderer.py:  470: printSegment: s rule
+   DEBUG: 2023-09-25 19:40:32,278:      pdf_renderer.py:  470: printSegment: The Settlers Clash with Native Americans
+   DEBUG: 2023-09-25 19:40:32,278:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,278:      pdf_renderer.py:  470: printSegment: Relations with American Indians worsened over time
+   DEBUG: 2023-09-25 19:40:32,278:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,278:      pdf_renderer.py:  470: printSegment: No intermarriage like the Spanish
+   DEBUG: 2023-09-25 19:40:32,279:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,279:      pdf_renderer.py:  470: printSegment: Colonists wanted more land for tobacco, native americans resisted
+   DEBUG: 2023-09-25 19:40:32,279:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,279:      pdf_renderer.py:  470: printSegment: 1622 - Opechancanough
+   DEBUG: 2023-09-25 19:40:32,279:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2023-09-25 19:40:32,279:      pdf_renderer.py:  470: printSegment: s revolt wiped out 1/3 of VA settlers, King James revoked the company
+   DEBUG: 2023-09-25 19:40:32,279:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2023-09-25 19:40:32,280:      pdf_renderer.py:  470: printSegment: s
+   DEBUG: 2023-09-25 19:40:32,280:      pdf_renderer.py:  470: printSegment: charter
+   DEBUG: 2023-09-25 19:40:32,280:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,280:      pdf_renderer.py:  470: printSegment: 1624 - VA became a royal colony
+   DEBUG: 2023-09-25 19:40:32,280:      pdf_renderer.py:  470: printSegment: Economy of the South
+   DEBUG: 2023-09-25 19:40:32,280:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,280:      pdf_renderer.py:  470: printSegment: Geographic Condition: Low coastal plain in the east and foothills and mountains in the west
+   DEBUG: 2023-09-25 19:40:32,281:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,281:      pdf_renderer.py:  470: printSegment: Charleston, SC became one of the major trade ports in the South
+   DEBUG: 2023-09-25 19:40:32,281:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,281:      pdf_renderer.py:  470: printSegment: Cash Crops: Tobacco, Rice, and Indigo (no cotton yet)
+   DEBUG: 2023-09-25 19:40:32,281:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,281:      pdf_renderer.py:  470: printSegment: Labor Force: Indentured servants and later slaves
+   DEBUG: 2023-09-25 19:40:32,282:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,282:      pdf_renderer.py:  470: printSegment: Class Division: The wealthy owned plantations, the poor hunted and relied on subsistence farming
+   DEBUG: 2023-09-25 19:40:32,282:      pdf_renderer.py:  470: printSegment: and trade with the natives
+   DEBUG: 2023-09-25 19:40:32,282:      pdf_renderer.py:  470: printSegment: The Indentured Servant
+   DEBUG: 2023-09-25 19:40:32,282:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,282:      pdf_renderer.py:  470: printSegment: Most indentured servants came over via the 
+   DEBUG: 2023-09-25 19:40:32,283:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2023-09-25 19:40:32,283:      pdf_renderer.py:  470: printSegment: headright system
+   DEBUG: 2023-09-25 19:40:32,283:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2023-09-25 19:40:32,283:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,283:      pdf_renderer.py:  470: printSegment: Had to labor for 4-7 years before being freed and gaining ownership of their own land
+   DEBUG: 2023-09-25 19:40:32,283:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,283:      pdf_renderer.py:  470: printSegment: Ethnic Make-up: Poor English, Scot-Irish, and African
+   DEBUG: 2023-09-25 19:40:32,284:      pdf_renderer.py:  470: printSegment: African Slavery
+   DEBUG: 2023-09-25 19:40:32,284:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,287:      pdf_renderer.py:  470: printSegment: Slaves arrived in the 17th century from Africa via the 
+   DEBUG: 2023-09-25 19:40:32,288:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2023-09-25 19:40:32,288:      pdf_renderer.py:  470: printSegment: middle passage
+   DEBUG: 2023-09-25 19:40:32,288:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2023-09-25 19:40:32,289:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,289:      pdf_renderer.py:  470: printSegment: Slaves had a life term
+   DEBUG: 2023-09-25 19:40:32,289:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,289:      pdf_renderer.py:  470: printSegment: Ethnic Make-Up: African
+   DEBUG: 2023-09-25 19:40:32,289:      pdf_renderer.py:  470: printSegment: Impact of the Slave Trade
+   DEBUG: 2023-09-25 19:40:32,290:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,291:      pdf_renderer.py:  470: printSegment: Disease killing native populations made them an unstable work force
+   DEBUG: 2023-09-25 19:40:32,291:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,291:      pdf_renderer.py:  470: printSegment: African slavery became an alternative for labor
+   DEBUG: 2023-09-25 19:40:32,292:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,292:      pdf_renderer.py:  470: printSegment: Demand for slaves grew quickly, leading to the growth of the trans-Atlantic slave trade
+   DEBUG: 2023-09-25 19:40:32,292:      pdf_renderer.py:  470: printSegment: Economic Differences Split Virginia
+   DEBUG: 2023-09-25 19:40:32,293:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,293:      pdf_renderer.py:  470: printSegment: Wealthy 
+   DEBUG: 2023-09-25 19:40:32,293:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2023-09-25 19:40:32,293:      pdf_renderer.py:  470: printSegment: cavalier
+   DEBUG: 2023-09-25 19:40:32,293:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2023-09-25 19:40:32,293:      pdf_renderer.py:  470: printSegment:  planters in Eastern VA represented by Governor Berkeley
+   DEBUG: 2023-09-25 19:40:32,294:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,294:      pdf_renderer.py:  470: printSegment: Former indentured servants in Western VA and frontier represented by Nathaniel Bacon
+   DEBUG: 2023-09-25 19:40:32,294:      pdf_renderer.py:  470: printSegment: Bacon
+   DEBUG: 2023-09-25 19:40:32,294:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2023-09-25 19:40:32,294:      pdf_renderer.py:  470: printSegment: s Rebellion
+   DEBUG: 2023-09-25 19:40:32,294:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,294:      pdf_renderer.py:  470: printSegment: Poor whites in the west, including former indentured servants, revolted against the VA government
+   DEBUG: 2023-09-25 19:40:32,295:      pdf_renderer.py:  470: printSegment: because they resented the lack of protection from Native Americans and representation in the House
+   DEBUG: 2023-09-25 19:40:32,295:      pdf_renderer.py:  470: printSegment: of Burgesses
+   DEBUG: 2023-09-25 19:40:32,295:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,295:      pdf_renderer.py:  470: printSegment: Revolted and marched on and burned Jamestown
+   DEBUG: 2023-09-25 19:40:32,295:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,295:      pdf_renderer.py:  470: printSegment: Led to more planters choosing African slaves over indentured servants due to the decreased
+   DEBUG: 2023-09-25 19:40:32,295:      pdf_renderer.py:  470: printSegment: likelihood of revolt
+   DEBUG: 2023-09-25 19:40:32,296:      pdf_renderer.py:  470: printSegment: Social and Religious
+   DEBUG: 2023-09-25 19:40:32,296:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,296:      pdf_renderer.py:  470: printSegment: Social Structure: Dominated by family status and land ownership
+   DEBUG: 2023-09-25 19:40:32,296:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,296:      pdf_renderer.py:  470: printSegment: Land Ownership: The wealthy owned plantations with slaves, the poor lived on the frontier
+   DEBUG: 2023-09-25 19:40:32,296:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,296:      pdf_renderer.py:  470: printSegment: Political Structure: The aristocracy (wealthy elites) controlled the government
+   DEBUG: 2023-09-25 19:40:32,297:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-09-25 19:40:32,297:      pdf_renderer.py:  470: printSegment: Religious Affiliation: Anglican (Church of England)
+   DEBUG: 2023-09-25 19:40:32,297:      pdf_renderer.py:   53: 0, [1, 'Session 2: Exploration and Colonization - THE BRITISH SOUTHERN COLONIES', 1, 87.2]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 1, [2, 'The Southern Colonies', 1, 125.20000000000002]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 2, [2, 'The Southern Colonists', 1, 206.80000000000004]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 3, [3, 'The English Cavalier', 1, 240.00000000000006]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 4, [3, 'The Frontier Settler', 1, 316.8]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 5, [2, 'The Jamestown Colony: 1607', 1, 394.0]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 6, [3, 'Successes', 1, 559.1999999999999]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 7, [3, 'Problems', 1, 635.9999999999999]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 8, [2, 'Early Forms of Government', 2, 92.8]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 9, [2, 'European Treatment of Natives', 2, 186.4]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 10, [2, 'The Settlers Clash with Native Americans', 2, 304.00000000000006]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 11, [2, 'Economy of the South', 2, 421.6000000000001]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 12, [2, 'The Indentured Servant', 2, 539.2]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 13, [2, 'African Slavery', 2, 620.8]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 14, [2, 'Impact of the Slave Trade', 2, 702.3999999999999]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 15, [2, 'Economic Differences Split Virginia', 3, 134.8]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 16, [2, 'Bacon', 3, 204.40000000000003]
+   DEBUG: 2023-09-25 19:40:32,298:      pdf_renderer.py:   53: 17, [2, 'Social and Religious', 3, 322.00000000000006]

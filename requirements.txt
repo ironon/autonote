@@ -1,0 +1,6 @@
+Flask==2.3.2
+flask_sock==0.6.0
+genanki==0.13.0
+openai==0.28.1
+PyPDF2==3.0.1
+wikipedia==1.4.0
